@@ -19,5 +19,7 @@ Prerequisites: Python 3 installed
 2. In terminal cd into 'social_book' with the command 'cd social_book'
 3. Run the server with the command 'python manage.py runserver'
 4. Enter the local host that python is running in as shown in terminal from 3. into your browser
+5. Login to admin to test a ready made account or create your own accounts
+    - user = admin, password = admin 
 
 Tutorial: https://www.youtube.com/watch?v=xSUm6iMtREA
